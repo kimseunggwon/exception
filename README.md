@@ -2,6 +2,13 @@
 
 api /server/ Exception(예외) / 오류 / 스프링 타입 컨버터 공부하기 
 
+# 개발 환경 및 기술
+- Intellij IDEA Ultimate 
+- Java 17
+- Spring Boot 3.0.4
+- validation
+- thymeleaf
+
 -서블릿 예외 처리 
 - 오류 화면 제공 페이지 등록
 - 필터
